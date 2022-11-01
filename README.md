@@ -33,7 +33,7 @@ Vulnerability #1: Username Enumeration. Reason: Developer forgot to keep span ta
 
 Vulnerability #2: Cross-Site Scripting. Reason: Detected that Stored XS Script was run in admin feedback panel.
 
-<img src='Green1.gif' title='Cross-Site Scripting'/>
+<img src='Green2.gif' title='Cross-Site Scripting'/>
 
 
 ## Red
