@@ -88,5 +88,4 @@ Testing Bonus Objective 2
 <img src='bonus2.gif' title='Cross-Site Scripting'/>
 
 ## Notes
-
-
+NONE
