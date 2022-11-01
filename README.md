@@ -85,7 +85,7 @@ Script used:
  
 Testing Bonus Objective 2 
 
-<img src='Bonus2.gif' title='Cross-Site Scripting'/>
+<img src='bonus2.gif' title='Cross-Site Scripting'/>
 
 ## Notes
 
